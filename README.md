@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My name is Stéphanie, and I am a French Team Manager working in the South of France.
+🔭 My everyday work consist in leading a 18-people team to enhance and maintain the public Agirc Arrco's web site https://espace-personnel.agirc-arrco.fr.
+During my free time, I like developping web interfaces and creating images/logos/visual identities. You can see some of them on my personal web site http://prettypix.fr.
+⚡ I also enjoy cycling and my sport sessions are an opportunity for me to unleash my creativity.
+📫 You can reach me on LinkedIn https://www.linkedin.com/in/stephanie-stacul-8a71346/
 <!--
 **Stephribo/Stephribo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
